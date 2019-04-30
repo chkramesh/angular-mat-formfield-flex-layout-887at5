@@ -103,4 +103,4 @@ import {
   ]    
 })
 
-export class MaterialModule {}
+export class MyMaterialModule { }

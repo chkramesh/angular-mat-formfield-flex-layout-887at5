@@ -5,7 +5,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { FlexLayoutModule } from '@angular/flex-layout';
 
 import { CustomMaterialModule } from './custom-material.module';
-import { MaterialModule } from './material.module';
+import { MaterialModule } from './material/material.module';
 
 import { AppComponent } from './app.component';
 
